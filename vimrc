@@ -7,7 +7,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'flazz/vim-colorschemes'
 call vundle#end()  
 
-colorscheme molokai
+colorscheme Atelier_EstuaryLight
 syntax on
 filetype plugin indent on
 set encoding=utf-8
