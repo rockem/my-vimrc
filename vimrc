@@ -12,7 +12,7 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 Plugin 'w0rp/ale'
-Plugin 'airblade/vim-gitgutter'
+Plugin 'mhinz/vim-signify'
 call vundle#end()  
 
 " Display
